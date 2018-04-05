@@ -1,3 +1,3 @@
 #!/usr/bin/env groovy
 
-deployDockerImage name: 'aws', public: true
+deployDockerImage name: 'composer', public: true
